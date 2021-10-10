@@ -7,6 +7,7 @@ Start zookeeper
 Add below properties in server.properties
 
 listeners=PLAINTEXT://localhost:9092
+
 auto.create.topics.enable=false
 
 Start broker
